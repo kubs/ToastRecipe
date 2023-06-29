@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '最美味的祕製吐司麵包-配方',
-  tagline: 'We Love Bread. 好吃請告訴我，失敗請告訴我',
-  favicon: 'img/favicon.ico',
+  tagline: 'We Love Bread. 好吃請告訴我，失敗也請告訴我',
+  favicon: 'img/bread.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
